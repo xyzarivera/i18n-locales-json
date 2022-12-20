@@ -1,0 +1,10 @@
+{
+  "emailRequired": "Enter your email address",
+  "invalidEmailFormat": "Entered value does not match email format",
+  "passwordRequired": "Enter your password",
+  "password6Characters": "Password must have at least 6 characters",
+  "password1Uppercase": "Must have at least 1 uppercase letter",
+  "password1Number": "Must have at least 1 number",
+  "invalidCredentials": "Username and/or password do not match.",
+  "loginAttemptLimit": "Too many failed login attempts. Please try again later."
+}

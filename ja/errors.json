@@ -1,0 +1,10 @@
+{
+  "emailRequired": "メールアドレスを入力してください",
+  "invalidEmailFormat": "入力した値が電子メールの形式と一致しません",
+  "passwordRequired": "パスワードを入力してください",
+  "password6Characters": "パスワードは6文字以上で設定してください",
+  "password1Uppercase": "1文字以上の大文字を含んでください",
+  "password1Number": "1文字以上の数字を含んでください",
+  "invalidCredentials": "ユーザー名とパスワードが一致しません。",
+  "loginAttemptLimit": "ログイン試行の失敗が多すぎます。後で再試行してください。"
+}
